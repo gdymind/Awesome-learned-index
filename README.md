@@ -32,15 +32,16 @@ This is a collection of learned index papers w/o notes.
 
 ## By category
 
-### Survey
+### Survey/Benchmark
 
-1. [2022-are_updatable_learned_index_ready](papers/2022-are_updatable_learned_index_ready.pdf)
+1. [2019-SOSD_Benchmark](papers/2019-SOSD_Benchmark.pdf)
+2. [2022-are_updatable_learned_index_ready](papers/2022-are_updatable_learned_index_ready.pdf)
 
 
 
 ### Updatable
 
-1. [2020-SIGMOD-ALEX An Updatable Adaptive Learned Index](paper/2020-SIGMOD-ALEX An Updatable Adaptive Learned Index.pdf) SMO using gapped array
+1. [2020-SIGMOD-ALEX An Updatable Adaptive Learned Index](papers/2020-SIGMOD-ALEX An Updatable Adaptive Learned Index.pdf) Use gapped array for SMO
 
 
 
