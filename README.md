@@ -10,22 +10,18 @@ This is a collection of learned index papers w/o notes.
 
 ### 2019
 
-
-
 ### 2020
 
 1. [2020-workshop_NIPS_Learned_Index_for_bigtable](papers/2020-workshop_NIPS_Learned_Index_for_bigtable.pdf)
 2. [2020-APSys-SIndex_Scalable_Learned_Index__String_Keys](papers/2020-APSys-SIndex_Scalable_Learned_Index__String_Keys.pdf)
 3. [2020-ICDEW-Self_Tuning_ART](2020-ICDEW-Self_Tuning_ART.pdf)
-4. [2020-PPoPP-XIndex A Scalable Learned Index for Multicore Data Storage](papers/2020-PPoPP-XIndex A Scalable Learned Index for Multicore Data Storage.pdf)
+4. [2020-PPoPP-XIndex_Scalable_Learned_Index_for_Multicore_Data_Storage](papers/2020-PPoPP-XIndex_Scalable_Learned_Index_for_Multicore_Data_Storage.pdf)
 5. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf)
-6. [2020-SIGMOD-CDFShop-Exploring and Optimizing Learned Index Structures](papers.2020-SIGMOD-CDFShop-Exploring and Optimizing Learned Index Structures.pdf)
+6. [2020-SIGMOD-CDFShop-Exploring_and_Optimizing_Learned_Index_Structures](papers/2020-SIGMOD-CDFShop-Exploring_and_Optimizing_Learned_Index_Structures.pdf)
 7. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
 8. [2020-workshop_NIPS_Learned_Index_for_bigtable](papers/2020-workshop_NIPS_Learned_Index_for_bigtable.pdf)
 
 ### 2021
-
-
 
 ### 2022
 
@@ -40,11 +36,11 @@ This is a collection of learned index papers w/o notes.
 
 ### Updatable
 
-1. [2020-SIGMOD-ALEX An Updatable Adaptive Learned Index](papers/2020-SIGMOD-ALEX An Updatable Adaptive Learned Index.pdf) Use gapped array for SMO
+1. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](papers/2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf) Use gapped array for SMO
 
 ### Secondary Storage/Persistent Memory
 
-1. [2019-arxiv-A Scalable Learned Index Scheme in Storage Systems](papers/2019-arxiv-A Scalable Learned Index Scheme in Storage Systems.pdf)
+1. [2019-arxiv-Scalable_Learned_Index_in_Storage](papers/2019-arxiv-Scalable_Learned_Index_in_Storage.pdf)
 
 2. [2020-workshop_NIPS_Learned_Index_for_bigtable](papers/2020-workshop_NIPS_Learned_Index_for_bigtable.pdf)
 
@@ -52,22 +48,14 @@ This is a collection of learned index papers w/o notes.
 
 4. [2020-OSDI-Bourbon_learned_LSM_slides](papers/2020-OSDI-Bourbon_learned_LSM_slides.pdf)
 
-
-
 ### Radix-Spine based
 
 1. [2020-aiDM-Radix_Spline](papers/2020-aiDM-Radix_Spline.pdf): Using linear spine fits to a CDF, then a flat radix table as an appoximate index.
-
-
 
 ### Variable length string keys
 
 1. [2020-APSys-SIndex_Scalable_Learned_Index__String_Keys](papers/2020-APSys-SIndex_Scalable_Learned_Index__String_Keys.pdf)
 
-
-
 ### Concurrency
 
 1. [2020-PPoPP-XIndex_Scalable_Learned_Index_for_Multicore_Data_Storage](papers/2020-PPoPP-XIndex_Scalable_Learned_Index_for_Multicore_Data_Storage.pdf)
-
-
