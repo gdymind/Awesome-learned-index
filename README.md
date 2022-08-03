@@ -28,6 +28,7 @@ This is a collection of learned index papers w/o notes.
 8. [2020-SIGMOD-CDFShop-Exploring_and_Optimizing_Learned_Index_Structures](papers/2020-SIGMOD-CDFShop-Exploring_and_Optimizing_Learned_Index_Structures.pdf): tuning parameters of RMIs
 9. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
 10. [2020-workshop_NIPS_Learned_Index_for_bigtable](papers/2020-workshop_NIPS_Learned_Index_for_bigtable.pdf)
+11. [2020-SIGMOD-HOPE](papers/2020-SIGMOD-HOPE.pdf): not learned index, but an encoding schme; order persevering encoding for string; can be used for string learned indexes
 
 ### 2021
 
@@ -40,16 +41,19 @@ This is a collection of learned index papers w/o notes.
 
 ## By category
 
-### Survey/Benchmark
+### Survey/Benchmark/Tuning
 
 1. [2019-SOSD_Benchmark](papers/2019-SOSD_Benchmark.pdf)
-2. [2021-PVLDB-Benchmarking_Learned_Indexes](papers/2021-PVLDB-Benchmarking_Learned_Indexes.pdf)
-3. [2022-are_updatable_learned_index_ready](papers/2022-are_updatable_learned_index_ready.pdf)
+2. [2020-SIGMOD-demo-CDFShop-tuning_RMI](papers/2020-SIGMOD-demo-CDFShop-tuning_RMI.pdf)
+3. [2021-PVLDB-Benchmarking_Learned_Indexes](papers/2021-PVLDB-Benchmarking_Learned_Indexes.pdf)
+4. [2022-are_updatable_learned_index_ready](papers/2022-are_updatable_learned_index_ready.pdf)
 
 ### Read-only
 
 1. [The case for learned index](papers/2018-google-learned-index.pdf)
 2. [2020-aiDM-Radix_Spline](papers/2020-aiDM-Radix_Spline.pdf)
+3. [2020-workshop_NIPS_Learned_Index_for_bigtable](papers/2020-workshop_NIPS_Learned_Index_for_bigtable.pdf)
+4. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
 
 ### Updatable
 
@@ -57,8 +61,9 @@ This is a collection of learned index papers w/o notes.
 2. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
 3. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf): RadixSpine as the top + Compact Hist-Tree as the bottom
 4. [2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions.pdf)
+5. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
 
-### Secondary Storage/Persistent Memory
+### Secondary Storage/Persistent Memory/LSM
 
 1. [2019-arxiv-Scalable_Learned_Index_in_Storage](papers/2019-arxiv-Scalable_Learned_Index_in_Storage.pdf): the initial version of FINEdex
 
@@ -82,7 +87,7 @@ This is a collection of learned index papers w/o notes.
 
 1. [2020-APSys-SIndex_Scalable_Learned_Index__String_Keys](papers/2020-APSys-SIndex_Scalable_Learned_Index__String_Keys.pdf)
 2. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
-3. [2020-SIGMOD-HOPE](papers/2020-SIGMOD-HOPE.pdf): order persevering encoding for string
+3. [2020-SIGMOD-HOPE](papers/2020-SIGMOD-HOPE.pdf): not learned index, but an encoding schme; order persevering encoding for string; can be used for string learned indexes
 4. [2020-SIGMOD-HOPE_slides](papers/2020-SIGMOD-HOPE_slides.pdf)
 
 ### Concurrency
