@@ -47,9 +47,10 @@ This is a collection of learned index papers w/o notes.
 
 ### Updatable
 
-1. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](papers/2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf) Use gapped array for SMO
-2. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf): RadixSpine as the top + Compact Hist-Tree as the bottom
-3. [2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions.pdf)
+1. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
+2. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](papers/2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf) Use gapped array for SMO
+3. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf): RadixSpine as the top + Compact Hist-Tree as the bottom
+4. [2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions.pdf)
 
 ### Secondary Storage/Persistent Memory
 
@@ -75,6 +76,8 @@ This is a collection of learned index papers w/o notes.
 
 1. [2020-APSys-SIndex_Scalable_Learned_Index__String_Keys](papers/2020-APSys-SIndex_Scalable_Learned_Index__String_Keys.pdf)
 2. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
+3. [2020-SIGMOD-HOPE](papers/2020-SIGMOD-HOPE.pdf): order persevering encoding for string
+4. [2020-SIGMOD-HOPE_slides](papers/2020-SIGMOD-HOPE_slides.pdf)
 
 ### Concurrency
 
