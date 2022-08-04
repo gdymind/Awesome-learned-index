@@ -1,6 +1,6 @@
 # Awesome-learned-index
 
-This is a collection of learned index papers w/o notes.
+This is a collection of learned index papers with notes.
 
 ## By year
 
@@ -12,9 +12,11 @@ This is a collection of learned index papers w/o notes.
 
 1. [2019-SOSD_Benchmark](papers/2019-SOSD_Benchmark.pdf)
 
-2. [2019-arxiv-Scalable_Learned_Index_in_Storage](papers/2019-arxiv-Scalable_Learned_Index_in_Storage.pdf):  the initial version of FINEdex
+2. [2019-aiDM-Considerations_for_Updates](papers/2019-aiDM-Considerations_for_Updates.pdf)
 
-3. [2019-SIGMOD-FITing-Tree_Data-aware-Index](papers/2019-SIGMOD-FITing-Tree_Data-aware-Index.pdf)
+3. [2019-arxiv-Scalable_Learned_Index_in_Storage](papers/2019-arxiv-Scalable_Learned_Index_in_Storage.pdf):  the initial version of FINEdex
+
+4. [2019-SIGMOD-FITing-Tree_Data-aware-Index](papers/2019-SIGMOD-FITing-Tree_Data-aware-Index.pdf)
 
 ### 2020
 
@@ -33,11 +35,22 @@ This is a collection of learned index papers w/o notes.
 ### 2021
 
 1. [2021-PVLDB-Benchmarking_Learned_Indexes](papers/2021-PVLDB-Benchmarking_Learned_Indexes.pdf)
-2. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
+2. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf)
+3. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
+4. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
+5. [2021-PVLDB-LIPP_Updatable_Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable_Learned_Index_Precise_Positions.pdf)
 
 ### 2022
 
-1. [2022-VLDB-NFL_Learned_Index_Distribution_Transformation](papers/2022-VLDB-NFL_Learned_Index_Distribution_Transformation.pdf): it transforms keys distribution to make it more linear. [source code](https://github.com/luffy06/NFL)
+1. [2022-PVLDB-are_updatable_learned_index_ready](papers/2022-PVLDB-are_updatable_learned_index_ready.pdf)
+
+2. [2022-ICLR_learned_index_with_dynamic_eps](papers/2022-ICLR_learned_index_with_dynamic_eps.pdf)
+
+3. [2022-VLDB-NFL_Learned_Index_Distribution_Transformation](papers/2022-VLDB-NFL_Learned_Index_Distribution_Transformation.pdf): it transforms keys distribution to make it more linear. [source code](https://github.com/luffy06/NFL)
+
+4. [2022-TOS-Xindex-most-recent](papers/2022-TOS-Xindex-most-recent.pdf)
+
+5. [2022-VLDB-APEX_Learned_Index_PM](papers/2022-VLDB-APEX_Learned_Index_PM.pdf)
 
 ## By category
 
@@ -58,10 +71,11 @@ This is a collection of learned index papers w/o notes.
 
 ### Updatable
 
-1. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](papers/2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf) Use gapped array for SMO
-2. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
-3. [2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions.pdf)
-4. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
+1. [2019-SIGMOD-FITing-Tree_Data-aware-Index](papers/2019-SIGMOD-FITing-Tree_Data-aware-Index.pdf)
+2. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](papers/2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf) Use gapped array for SMO
+3. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
+4. [2021-PVLDB-LIPP_Updatable_Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable_Learned_Index_Precise_Positions.pdf)
+5. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
 
 ### Secondary Storage/Persistent Memory/LSM
 
