@@ -33,7 +33,7 @@ This is a collection of learned index papers w/o notes.
 ### 2021
 
 1. [2021-PVLDB-Benchmarking_Learned_Indexes](papers/2021-PVLDB-Benchmarking_Learned_Indexes.pdf)
-1. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
+2. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
 
 ### 2022
 
@@ -53,15 +53,15 @@ This is a collection of learned index papers w/o notes.
 1. [The case for learned index](papers/2018-google-learned-index.pdf)
 2. [2020-aiDM-Radix_Spline](papers/2020-aiDM-Radix_Spline.pdf)
 3. [2020-workshop_NIPS_Learned_Index_for_bigtable](papers/2020-workshop_NIPS_Learned_Index_for_bigtable.pdf)
-4. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
+4. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf): RadixSpine as the top + Compact Hist-Tree as the bottom
+5. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
 
 ### Updatable
 
 1. [2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index](papers/2020-SIGMOD-ALEX_Updatable_Adaptive_Learned_Index.pdf) Use gapped array for SMO
 2. [2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds](papers/2020-VLDB-PGM-index_fully-dynamic_compressed_worst-case_bounds.pdf)
-3. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf): RadixSpine as the top + Compact Hist-Tree as the bottom
-4. [2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions.pdf)
-5. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
+3. [2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable Learned_Index_Precise_Positions.pdf)
+4. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
 
 ### Secondary Storage/Persistent Memory/LSM
 
@@ -93,6 +93,6 @@ This is a collection of learned index papers w/o notes.
 ### Concurrency
 
 1. [2020-PPoPP-XIndex_Scalable_Learned_Index_for_Multicore_Data_Storage](papers/2020-PPoPP-XIndex_Scalable_Learned_Index_for_Multicore_Data_Storage.pdf)
-1. [2020-APSys-SIndex_Scalable_Learned_Index_String_Keys](papers/2020-APSys-SIndex_Scalable_Learned_Index_String_Keys.pdf)
-1. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
-1. [2022-TOS-Xindex-most-recent](papers/2022-TOS-Xindex-most-recent.pdf)
+2. [2020-APSys-SIndex_Scalable_Learned_Index_String_Keys](papers/2020-APSys-SIndex_Scalable_Learned_Index_String_Keys.pdf)
+3. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
+4. [2022-TOS-Xindex-most-recent](papers/2022-TOS-Xindex-most-recent.pdf)
