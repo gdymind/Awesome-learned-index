@@ -39,6 +39,8 @@ This is a collection of learned index papers with notes.
 3. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
 4. [2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems](papers/2021-PVLDB-FINEdex-Fine-grained_for_Scalable_Concurrent_Memory_Systems.pdf)
 5. [2021-PVLDB-LIPP_Updatable_Learned_Index_Precise_Positions](papers/2021-PVLDB-LIPP_Updatable_Learned_Index_Precise_Positions.pdf)
+6. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
+7. [2021-aiDM-Tailored_Regression_Learned_Indexes-Logarithmic-Error-Regression](papers/2021-aiDM-Tailored_Regression_Learned_Indexes-Logarithmic-Error-Regression.pdf)
 
 ### 2022
 
@@ -59,7 +61,8 @@ This is a collection of learned index papers with notes.
 1. [2019-SOSD_Benchmark](papers/2019-SOSD_Benchmark.pdf)
 2. [2020-SIGMOD-demo-CDFShop-tuning_RMI](papers/2020-SIGMOD-demo-CDFShop-tuning_RMI.pdf)
 3. [2021-PVLDB-Benchmarking_Learned_Indexes](papers/2021-PVLDB-Benchmarking_Learned_Indexes.pdf)
-4. [2022-are_updatable_learned_index_ready](papers/2022-are_updatable_learned_index_ready.pdf)
+4. [2021-aiDM-Tailored_Regression_Learned_Indexes-Logarithmic-Error-Regression](papers/2021-aiDM-Tailored_Regression_Learned_Indexes-Logarithmic-Error-Regression.pdf)
+5. [2022-are_updatable_learned_index_ready](papers/2022-are_updatable_learned_index_ready.pdf)
 
 ### Read-only
 
@@ -96,6 +99,7 @@ This is a collection of learned index papers with notes.
 1. [2020-aiDM-Radix_Spline](papers/2020-aiDM-Radix_Spline.pdf): Using linear spine fits to a CDF, then a flat radix table as an appoximate index.
 2. [2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing](papers/2021-AIDB-RSS_Bounding_the_Last_Mile-Efficient_Learned_String_Indexing.pdf)
 3. [2021-AIDB-PLEX_RS+CHT](papers/2021-AIDB-PLEX_RS+CHT.pdf)
+4. [2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index](papers/2021-aiDM-RUSLI_Real-time_Updatable_Spline_Learned_Index.pdf)
 
 ### Variable length string keys
 
