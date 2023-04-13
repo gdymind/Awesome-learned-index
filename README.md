@@ -54,6 +54,10 @@ This is a collection of learned index papers with notes.
 
 5. [2022-VLDB-APEX_Learned_Index_PM](papers/2022-VLDB-APEX_Learned_Index_PM.pdf)
 
+### 2023
+1. [2023-FAST-ROLEX](papers/2023-FAST-ROLEX.pdf)
+2. [2023-ASPLOS-LeaFTL- A Learning-Based Flash Translation Layer for Solid-State Drives](papers/2023-ASPLOS-LeaFTL-%20A%20Learning-Based%20Flash%20Translation%20Layer%20for%20Solid-State%20Drives.pdf) Learned index for SSD FTL page-level memory mapping
+
 ## By category
 
 ### Survey/Benchmark/Tuning
